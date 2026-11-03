@@ -42,15 +42,3 @@ I use the **LeetHub extension** to automatically sync my accepted LeetCode submi
 ⭐ If you find this repository helpful, consider giving it a star!
 
 **Consistency is the key to mastering DSA!**
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0151-reverse-words-in-a-string](https://github.com/PWN-N/Solved_Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0151-reverse-words-in-a-string](https://github.com/PWN-N/Solved_Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
-<!---LeetCode Topics End-->
