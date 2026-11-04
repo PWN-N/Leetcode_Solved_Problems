@@ -42,3 +42,31 @@ I use the **LeetHub extension** to automatically sync my accepted LeetCode submi
 ⭐ If you find this repository helpful, consider giving it a star!
 
 **Consistency is the key to mastering DSA!**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PWN-N/Solved_Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PWN-N/Solved_Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PWN-N/Solved_Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PWN-N/Solved_Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PWN-N/Solved_Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PWN-N/Solved_Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+<!---LeetCode Topics End-->
