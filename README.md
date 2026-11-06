@@ -48,6 +48,7 @@ I use the **LeetHub extension** to automatically sync my accepted LeetCode submi
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/PWN-N/Solved_Problems/tree/main/0001-two-sum/) | Easy |
 | [0242-valid-anagram](https://github.com/PWN-N/Solved_Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/PWN-N/Solved_Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## String
@@ -72,4 +73,8 @@ I use the **LeetHub extension** to automatically sync my accepted LeetCode submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/PWN-N/Solved_Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/PWN-N/Solved_Problems/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
